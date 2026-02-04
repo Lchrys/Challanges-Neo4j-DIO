@@ -6,7 +6,7 @@
 
 ---
 
-# 🚀 Graph Data Studies - Laboratório Neo4j
+# 🚀 Graph Data Studies - Laboratório Neo4j:
 
 Este repositório é dedicado ao armazenamento e documentação de projetos práticos utilizando bancos de dados orientados a grafos, desenvolvidos durante a minha trilha de aprendizado na **DIO (Digital Innovation One)**.
 
@@ -14,7 +14,7 @@ Aqui, utilizo o **Neo4j Aura DB** (instância cloud) para explorar o poder das c
 
 ---
 
-## 📁 Projetos e Desafios
+## 📁 Projetos:
 
 O repositório está organizado em módulos.
 
