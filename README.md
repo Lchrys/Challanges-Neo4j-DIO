@@ -1,3 +1,11 @@
+<div align="center">
+  <img src="https://dist.neo4j.com/wp-content/uploads/20210423201726/Aura-logo_color.png" alt="Neo4j Logo" height="80">
+  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://hermes.digitalinnovation.one/assets/diome/logo.svg" alt="DIO Logo" height="80">
+</div>
+
+---
+
 Este repositório contém a entrega do projeto prático de banco de dados orientado a grafos, desenvolvido como parte da formação na **DIO (Digital Innovation One)**. 
 Este pequeno projeto utiliza o **Neo4j Aura DB** (instância cloud) para modelar conexões entre filmes, séries, diretores, atores e usuários.
 Como meu projeto de estreia em Modelagem de Grafos, busquei aplicar os conceitos fundamentais de nós, relacionamentos e propriedades utilizando o Neo4j Aura.
