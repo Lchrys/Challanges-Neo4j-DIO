@@ -55,3 +55,9 @@ Para rodar este grafo na sua própria instância do Neo4j:
 3.  Execute os comandos contidos no arquivo `setup.cypher` para criar os nós e as constraints.
 4.  Execute os comandos do arquivo `relacionamentos.cypher` para gerar as conexões.
 5.  Utilize o arquivo `consultas.cypher` para explorar os dados e validar as buscas.
+
+### Visualização do grafo deste projeto:
+
+<div align="center">
+  <img src="https://github.com/Lchrys/Challanges-Neo4j-DIO/blob/main/01-Servi%C3%A7o_de_Streaming/IMG/bloom-visualisation.png?raw=true" alt="Visualização do Grafo no Bloom" width="80%">
+</div>
