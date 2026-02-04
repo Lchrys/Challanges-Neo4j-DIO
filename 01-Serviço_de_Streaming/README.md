@@ -6,7 +6,7 @@
 
 ---
 
-# 🎬 Projeto 01: Sistema de Grafo para Filmes e Séries
+# 🎬 Projeto 01: Serviço de Streaming
 
 Este repositório contém a entrega do meu primeiro projeto prático de banco de dados orientado a grafos, desenvolvido durante a formação na **DIO (Digital Innovation One)**. 
 
