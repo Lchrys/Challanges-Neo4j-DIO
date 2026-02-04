@@ -18,7 +18,7 @@ Aqui, utilizo o **Neo4j Aura DB** (instância cloud) para explorar o poder das c
 
 O repositório está organizado em módulos.
 
-### 🎬 1. Sistema de Recomendação: Filmes e Séries
+### 🎬 1. Serviço de Streaming
 Projeto de estreia em Modelagem de Grafos. O foco foi aplicar os conceitos fundamentais de nós, relacionamentos e propriedades.
 
 ---
