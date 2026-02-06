@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="https://dist.neo4j.com/wp-content/uploads/20210423201726/Aura-logo_color.png" alt="Neo4j Logo" height="80">
+  <img src="https://i0.wp.com/codigosimples.net/wp-content/uploads/2019/11/neo4j-aura-logo-white-1.png?fit=468%2C468&ssl=1" alt="Neo4j Logo" height="160">
   &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://hermes.digitalinnovation.one/assets/diome/logo.svg" alt="DIO Logo" height="80">
 </div>
+
 
 ---
 
