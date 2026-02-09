@@ -1,0 +1,101 @@
+user_id,user_name,song_title,artist_name,genre_name,interaction_type,timestamp,weight
+U1,User_U1,Get Lucky,Daft Punk,Electronic,LIKED,2026-02-18,5
+U10,User_U10,Anti-Hero,Taylor Swift,Pop,LIKED,2026-02-9,5
+U3,User_U3,One More Time,Daft Punk,Electronic,LISTENED,2026-02-21,1
+U5,User_U5,Time,Pink Floyd,Rock,LIKED,2026-02-27,5
+U4,User_U4,Blank Space,Taylor Swift,Pop,LISTENED,2026-02-28,1
+U9,User_U9,One More Time,Daft Punk,Electronic,LIKED,2026-02-15,5
+U6,User_U6,One More Time,Daft Punk,Electronic,LIKED,2026-02-22,5
+U2,User_U2,Comfortably Numb,Pink Floyd,Rock,LISTENED,2026-02-5,1
+U7,User_U7,Anti-Hero,Taylor Swift,Pop,LIKED,2026-02-26,5
+U9,User_U9,Time,Pink Floyd,Rock,LIKED,2026-02-4,5
+U2,User_U2,Get Lucky,Daft Punk,Electronic,LISTENED,2026-02-12,1
+U7,User_U7,Blank Space,Taylor Swift,Pop,LIKED,2026-02-21,5
+U7,User_U7,One More Time,Daft Punk,Electronic,LISTENED,2026-02-9,1
+U7,User_U7,Blank Space,Taylor Swift,Pop,LISTENED,2026-02-1,1
+U10,User_U10,One More Time,Daft Punk,Electronic,LIKED,2026-02-3,5
+U6,User_U6,Blank Space,Taylor Swift,Pop,LIKED,2026-02-4,5
+U9,User_U9,One More Time,Daft Punk,Electronic,LIKED,2026-02-4,5
+U10,User_U10,Do I Wanna Know?,Arctic Monkeys,Indie,LISTENED,2026-02-8,1
+U7,User_U7,Anti-Hero,Taylor Swift,Pop,LIKED,2026-02-13,5
+U3,User_U3,One More Time,Daft Punk,Electronic,LISTENED,2026-02-14,1
+U4,User_U4,Get Lucky,Daft Punk,Electronic,LISTENED,2026-02-26,1
+U3,User_U3,Taj Mahal,Jorge Ben Jor,Samba,LISTENED,2026-02-9,1
+U6,User_U6,Time,Pink Floyd,Rock,LIKED,2026-02-27,5
+U6,User_U6,Do I Wanna Know?,Arctic Monkeys,Indie,LISTENED,2026-02-4,1
+U5,User_U5,Blank Space,Taylor Swift,Pop,LIKED,2026-02-26,5
+U10,User_U10,Time,Pink Floyd,Rock,LIKED,2026-02-18,5
+U10,User_U10,Do I Wanna Know?,Arctic Monkeys,Indie,LIKED,2026-02-2,5
+U4,User_U4,Anti-Hero,Taylor Swift,Pop,LISTENED,2026-02-28,1
+U7,User_U7,Mas que Nada,Jorge Ben Jor,Samba,LIKED,2026-02-27,5
+U6,User_U6,Comfortably Numb,Pink Floyd,Rock,LISTENED,2026-02-1,1
+U5,User_U5,Get Lucky,Daft Punk,Electronic,LISTENED,2026-02-12,1
+U5,User_U5,Time,Pink Floyd,Rock,LISTENED,2026-02-16,1
+U6,User_U6,Time,Pink Floyd,Rock,LIKED,2026-02-9,5
+U5,User_U5,Get Lucky,Daft Punk,Electronic,LISTENED,2026-02-16,1
+U1,User_U1,Taj Mahal,Jorge Ben Jor,Samba,LISTENED,2026-02-22,1
+U4,User_U4,Do I Wanna Know?,Arctic Monkeys,Indie,LISTENED,2026-02-6,1
+U3,User_U3,Anti-Hero,Taylor Swift,Pop,LISTENED,2026-02-16,1
+U7,User_U7,Mas que Nada,Jorge Ben Jor,Samba,LIKED,2026-02-14,5
+U6,User_U6,One More Time,Daft Punk,Electronic,LISTENED,2026-02-5,1
+U2,User_U2,One More Time,Daft Punk,Electronic,LIKED,2026-02-13,5
+U5,User_U5,Taj Mahal,Jorge Ben Jor,Samba,LISTENED,2026-02-13,1
+U8,User_U8,R UI Mine?,Arctic Monkeys,Indie,LIKED,2026-02-23,5
+U3,User_U3,Mas que Nada,Jorge Ben Jor,Samba,LIKED,2026-02-26,5
+U5,User_U5,Time,Pink Floyd,Rock,LIKED,2026-02-2,5
+U1,User_U1,One More Time,Daft Punk,Electronic,LIKED,2026-02-6,5
+U7,User_U7,Mas que Nada,Jorge Ben Jor,Samba,LISTENED,2026-02-17,1
+U5,User_U5,Time,Pink Floyd,Rock,LIKED,2026-02-8,5
+U10,User_U10,Mas que Nada,Jorge Ben Jor,Samba,LIKED,2026-02-20,5
+U6,User_U6,Do I Wanna Know?,Arctic Monkeys,Indie,LISTENED,2026-02-27,1
+U3,User_U3,Get Lucky,Daft Punk,Electronic,LIKED,2026-02-24,5
+U2,User_U2,Anti-Hero,Taylor Swift,Pop,LIKED,2026-02-16,5
+U4,User_U4,Get Lucky,Daft Punk,Electronic,LIKED,2026-02-13,5
+U6,User_U6,Time,Pink Floyd,Rock,LIKED,2026-02-5,5
+U8,User_U8,Comfortably Numb,Pink Floyd,Rock,LISTENED,2026-02-17,1
+U5,User_U5,R UI Mine?,Arctic Monkeys,Indie,LISTENED,2026-02-16,1
+U10,User_U10,Do I Wanna Know?,Arctic Monkeys,Indie,LISTENED,2026-02-3,1
+U8,User_U8,Get Lucky,Daft Punk,Electronic,LIKED,2026-02-15,5
+U2,User_U2,Taj Mahal,Jorge Ben Jor,Samba,LISTENED,2026-02-2,1
+U4,User_U4,Time,Pink Floyd,Rock,LIKED,2026-02-9,5
+U6,User_U6,Time,Pink Floyd,Rock,LISTENED,2026-02-18,1
+U2,User_U2,One More Time,Daft Punk,Electronic,LIKED,2026-02-19,5
+U1,User_U1,Taj Mahal,Jorge Ben Jor,Samba,LISTENED,2026-02-12,1
+U1,User_U1,Mas que Nada,Jorge Ben Jor,Samba,LIKED,2026-02-18,5
+U1,User_U1,Blank Space,Taylor Swift,Pop,LISTENED,2026-02-16,1
+U7,User_U7,Time,Pink Floyd,Rock,LIKED,2026-02-18,5
+U9,User_U9,Get Lucky,Daft Punk,Electronic,LIKED,2026-02-13,5
+U10,User_U10,Blank Space,Taylor Swift,Pop,LIKED,2026-02-6,5
+U7,User_U7,Anti-Hero,Taylor Swift,Pop,LISTENED,2026-02-6,1
+U10,User_U10,Do I Wanna Know?,Arctic Monkeys,Indie,LIKED,2026-02-19,5
+U8,User_U8,Time,Pink Floyd,Rock,LISTENED,2026-02-2,1
+U4,User_U4,Taj Mahal,Jorge Ben Jor,Samba,LIKED,2026-02-5,5
+U9,User_U9,Time,Pink Floyd,Rock,LISTENED,2026-02-6,1
+U5,User_U5,Mas que Nada,Jorge Ben Jor,Samba,LIKED,2026-02-13,5
+U4,User_U4,Comfortably Numb,Pink Floyd,Rock,LIKED,2026-02-8,5
+U8,User_U8,Comfortably Numb,Pink Floyd,Rock,LISTENED,2026-02-23,1
+U4,User_U4,Comfortably Numb,Pink Floyd,Rock,LISTENED,2026-02-8,1
+U3,User_U3,R UI Mine?,Arctic Monkeys,Indie,LIKED,2026-02-11,5
+U9,User_U9,Mas que Nada,Jorge Ben Jor,Samba,LIKED,2026-02-26,5
+U3,User_U3,Anti-Hero,Taylor Swift,Pop,LIKED,2026-02-16,5
+U10,User_U10,R UI Mine?,Arctic Monkeys,Indie,LISTENED,2026-02-20,1
+U2,User_U2,Blank Space,Taylor Swift,Pop,LISTENED,2026-02-1,1
+U7,User_U7,R UI Mine?,Arctic Monkeys,Indie,LIKED,2026-02-3,5
+U7,User_U7,Taj Mahal,Jorge Ben Jor,Samba,LISTENED,2026-02-3,1
+U4,User_U4,Taj Mahal,Jorge Ben Jor,Samba,LIKED,2026-02-17,5
+U4,User_U4,Mas que Nada,Jorge Ben Jor,Samba,LISTENED,2026-02-25,1
+U9,User_U9,Comfortably Numb,Pink Floyd,Rock,LISTENED,2026-02-21,1
+U5,User_U5,Taj Mahal,Jorge Ben Jor,Samba,LISTENED,2026-02-10,1
+U2,User_U2,Do I Wanna Know?,Arctic Monkeys,Indie,LIKED,2026-02-15,5
+U4,User_U4,Get Lucky,Daft Punk,Electronic,LIKED,2026-02-23,5
+U6,User_U6,Time,Pink Floyd,Rock,LISTENED,2026-02-4,1
+U5,User_U5,Mas que Nada,Jorge Ben Jor,Samba,LISTENED,2026-02-20,1
+U9,User_U9,Time,Pink Floyd,Rock,LISTENED,2026-02-12,1
+U5,User_U5,Taj Mahal,Jorge Ben Jor,Samba,LISTENED,2026-02-3,1
+U8,User_U8,Get Lucky,Daft Punk,Electronic,LISTENED,2026-02-22,1
+U1,User_U1,One More Time,Daft Punk,Electronic,LISTENED,2026-02-28,1
+U5,User_U5,Anti-Hero,Taylor Swift,Pop,LIKED,2026-02-25,5
+U10,User_U10,Taj Mahal,Jorge Ben Jor,Samba,LISTENED,2026-02-12,1
+U3,User_U3,One More Time,Daft Punk,Electronic,LISTENED,2026-02-28,1
+U7,User_U7,Anti-Hero,Taylor Swift,Pop,LISTENED,2026-02-24,1
+U1,User_U1,Mas que Nada,Jorge Ben Jor,Samba,LISTENED,2026-02-5,1
