@@ -1,101 +1,501 @@
-user_id,user_name,song_title,artist_name,genre_name,interaction_type,timestamp,weight
-U1,User_U1,Get Lucky,Daft Punk,Electronic,LIKED,2026-02-18,5
-U10,User_U10,Anti-Hero,Taylor Swift,Pop,LIKED,2026-02-9,5
-U3,User_U3,One More Time,Daft Punk,Electronic,LISTENED,2026-02-21,1
-U5,User_U5,Time,Pink Floyd,Rock,LIKED,2026-02-27,5
-U4,User_U4,Blank Space,Taylor Swift,Pop,LISTENED,2026-02-28,1
-U9,User_U9,One More Time,Daft Punk,Electronic,LIKED,2026-02-15,5
-U6,User_U6,One More Time,Daft Punk,Electronic,LIKED,2026-02-22,5
-U2,User_U2,Comfortably Numb,Pink Floyd,Rock,LISTENED,2026-02-5,1
-U7,User_U7,Anti-Hero,Taylor Swift,Pop,LIKED,2026-02-26,5
-U9,User_U9,Time,Pink Floyd,Rock,LIKED,2026-02-4,5
-U2,User_U2,Get Lucky,Daft Punk,Electronic,LISTENED,2026-02-12,1
-U7,User_U7,Blank Space,Taylor Swift,Pop,LIKED,2026-02-21,5
-U7,User_U7,One More Time,Daft Punk,Electronic,LISTENED,2026-02-9,1
-U7,User_U7,Blank Space,Taylor Swift,Pop,LISTENED,2026-02-1,1
-U10,User_U10,One More Time,Daft Punk,Electronic,LIKED,2026-02-3,5
-U6,User_U6,Blank Space,Taylor Swift,Pop,LIKED,2026-02-4,5
-U9,User_U9,One More Time,Daft Punk,Electronic,LIKED,2026-02-4,5
-U10,User_U10,Do I Wanna Know?,Arctic Monkeys,Indie,LISTENED,2026-02-8,1
-U7,User_U7,Anti-Hero,Taylor Swift,Pop,LIKED,2026-02-13,5
-U3,User_U3,One More Time,Daft Punk,Electronic,LISTENED,2026-02-14,1
-U4,User_U4,Get Lucky,Daft Punk,Electronic,LISTENED,2026-02-26,1
-U3,User_U3,Taj Mahal,Jorge Ben Jor,Samba,LISTENED,2026-02-9,1
-U6,User_U6,Time,Pink Floyd,Rock,LIKED,2026-02-27,5
-U6,User_U6,Do I Wanna Know?,Arctic Monkeys,Indie,LISTENED,2026-02-4,1
-U5,User_U5,Blank Space,Taylor Swift,Pop,LIKED,2026-02-26,5
-U10,User_U10,Time,Pink Floyd,Rock,LIKED,2026-02-18,5
-U10,User_U10,Do I Wanna Know?,Arctic Monkeys,Indie,LIKED,2026-02-2,5
-U4,User_U4,Anti-Hero,Taylor Swift,Pop,LISTENED,2026-02-28,1
-U7,User_U7,Mas que Nada,Jorge Ben Jor,Samba,LIKED,2026-02-27,5
-U6,User_U6,Comfortably Numb,Pink Floyd,Rock,LISTENED,2026-02-1,1
-U5,User_U5,Get Lucky,Daft Punk,Electronic,LISTENED,2026-02-12,1
-U5,User_U5,Time,Pink Floyd,Rock,LISTENED,2026-02-16,1
-U6,User_U6,Time,Pink Floyd,Rock,LIKED,2026-02-9,5
-U5,User_U5,Get Lucky,Daft Punk,Electronic,LISTENED,2026-02-16,1
-U1,User_U1,Taj Mahal,Jorge Ben Jor,Samba,LISTENED,2026-02-22,1
-U4,User_U4,Do I Wanna Know?,Arctic Monkeys,Indie,LISTENED,2026-02-6,1
-U3,User_U3,Anti-Hero,Taylor Swift,Pop,LISTENED,2026-02-16,1
-U7,User_U7,Mas que Nada,Jorge Ben Jor,Samba,LIKED,2026-02-14,5
-U6,User_U6,One More Time,Daft Punk,Electronic,LISTENED,2026-02-5,1
-U2,User_U2,One More Time,Daft Punk,Electronic,LIKED,2026-02-13,5
-U5,User_U5,Taj Mahal,Jorge Ben Jor,Samba,LISTENED,2026-02-13,1
-U8,User_U8,R UI Mine?,Arctic Monkeys,Indie,LIKED,2026-02-23,5
-U3,User_U3,Mas que Nada,Jorge Ben Jor,Samba,LIKED,2026-02-26,5
-U5,User_U5,Time,Pink Floyd,Rock,LIKED,2026-02-2,5
-U1,User_U1,One More Time,Daft Punk,Electronic,LIKED,2026-02-6,5
-U7,User_U7,Mas que Nada,Jorge Ben Jor,Samba,LISTENED,2026-02-17,1
-U5,User_U5,Time,Pink Floyd,Rock,LIKED,2026-02-8,5
-U10,User_U10,Mas que Nada,Jorge Ben Jor,Samba,LIKED,2026-02-20,5
-U6,User_U6,Do I Wanna Know?,Arctic Monkeys,Indie,LISTENED,2026-02-27,1
-U3,User_U3,Get Lucky,Daft Punk,Electronic,LIKED,2026-02-24,5
-U2,User_U2,Anti-Hero,Taylor Swift,Pop,LIKED,2026-02-16,5
-U4,User_U4,Get Lucky,Daft Punk,Electronic,LIKED,2026-02-13,5
-U6,User_U6,Time,Pink Floyd,Rock,LIKED,2026-02-5,5
-U8,User_U8,Comfortably Numb,Pink Floyd,Rock,LISTENED,2026-02-17,1
-U5,User_U5,R UI Mine?,Arctic Monkeys,Indie,LISTENED,2026-02-16,1
-U10,User_U10,Do I Wanna Know?,Arctic Monkeys,Indie,LISTENED,2026-02-3,1
-U8,User_U8,Get Lucky,Daft Punk,Electronic,LIKED,2026-02-15,5
-U2,User_U2,Taj Mahal,Jorge Ben Jor,Samba,LISTENED,2026-02-2,1
-U4,User_U4,Time,Pink Floyd,Rock,LIKED,2026-02-9,5
-U6,User_U6,Time,Pink Floyd,Rock,LISTENED,2026-02-18,1
-U2,User_U2,One More Time,Daft Punk,Electronic,LIKED,2026-02-19,5
-U1,User_U1,Taj Mahal,Jorge Ben Jor,Samba,LISTENED,2026-02-12,1
-U1,User_U1,Mas que Nada,Jorge Ben Jor,Samba,LIKED,2026-02-18,5
-U1,User_U1,Blank Space,Taylor Swift,Pop,LISTENED,2026-02-16,1
-U7,User_U7,Time,Pink Floyd,Rock,LIKED,2026-02-18,5
-U9,User_U9,Get Lucky,Daft Punk,Electronic,LIKED,2026-02-13,5
-U10,User_U10,Blank Space,Taylor Swift,Pop,LIKED,2026-02-6,5
-U7,User_U7,Anti-Hero,Taylor Swift,Pop,LISTENED,2026-02-6,1
-U10,User_U10,Do I Wanna Know?,Arctic Monkeys,Indie,LIKED,2026-02-19,5
-U8,User_U8,Time,Pink Floyd,Rock,LISTENED,2026-02-2,1
-U4,User_U4,Taj Mahal,Jorge Ben Jor,Samba,LIKED,2026-02-5,5
-U9,User_U9,Time,Pink Floyd,Rock,LISTENED,2026-02-6,1
-U5,User_U5,Mas que Nada,Jorge Ben Jor,Samba,LIKED,2026-02-13,5
-U4,User_U4,Comfortably Numb,Pink Floyd,Rock,LIKED,2026-02-8,5
-U8,User_U8,Comfortably Numb,Pink Floyd,Rock,LISTENED,2026-02-23,1
-U4,User_U4,Comfortably Numb,Pink Floyd,Rock,LISTENED,2026-02-8,1
-U3,User_U3,R UI Mine?,Arctic Monkeys,Indie,LIKED,2026-02-11,5
-U9,User_U9,Mas que Nada,Jorge Ben Jor,Samba,LIKED,2026-02-26,5
-U3,User_U3,Anti-Hero,Taylor Swift,Pop,LIKED,2026-02-16,5
-U10,User_U10,R UI Mine?,Arctic Monkeys,Indie,LISTENED,2026-02-20,1
-U2,User_U2,Blank Space,Taylor Swift,Pop,LISTENED,2026-02-1,1
-U7,User_U7,R UI Mine?,Arctic Monkeys,Indie,LIKED,2026-02-3,5
-U7,User_U7,Taj Mahal,Jorge Ben Jor,Samba,LISTENED,2026-02-3,1
-U4,User_U4,Taj Mahal,Jorge Ben Jor,Samba,LIKED,2026-02-17,5
-U4,User_U4,Mas que Nada,Jorge Ben Jor,Samba,LISTENED,2026-02-25,1
-U9,User_U9,Comfortably Numb,Pink Floyd,Rock,LISTENED,2026-02-21,1
-U5,User_U5,Taj Mahal,Jorge Ben Jor,Samba,LISTENED,2026-02-10,1
-U2,User_U2,Do I Wanna Know?,Arctic Monkeys,Indie,LIKED,2026-02-15,5
-U4,User_U4,Get Lucky,Daft Punk,Electronic,LIKED,2026-02-23,5
-U6,User_U6,Time,Pink Floyd,Rock,LISTENED,2026-02-4,1
-U5,User_U5,Mas que Nada,Jorge Ben Jor,Samba,LISTENED,2026-02-20,1
-U9,User_U9,Time,Pink Floyd,Rock,LISTENED,2026-02-12,1
-U5,User_U5,Taj Mahal,Jorge Ben Jor,Samba,LISTENED,2026-02-3,1
-U8,User_U8,Get Lucky,Daft Punk,Electronic,LISTENED,2026-02-22,1
-U1,User_U1,One More Time,Daft Punk,Electronic,LISTENED,2026-02-28,1
-U5,User_U5,Anti-Hero,Taylor Swift,Pop,LIKED,2026-02-25,5
-U10,User_U10,Taj Mahal,Jorge Ben Jor,Samba,LISTENED,2026-02-12,1
-U3,User_U3,One More Time,Daft Punk,Electronic,LISTENED,2026-02-28,1
-U7,User_U7,Anti-Hero,Taylor Swift,Pop,LISTENED,2026-02-24,1
-U1,User_U1,Mas que Nada,Jorge Ben Jor,Samba,LISTENED,2026-02-5,1
+user_id,user_name,song_title,artist_name,genre_name,interaction_type,weight
+U16,User_U16,Música Número 4,Artista_16,Electronic,LISTENED,1
+U19,User_U19,Música Número 89,Artista_11,Indie,LISTENED,1
+U1,User_U1,Música Número 52,Artista_15,Jazz,LIKED,5
+U16,User_U16,Música Número 41,Artista_12,Hip Hop,LISTENED,1
+U11,User_U11,Música Número 49,Artista_19,Metal,LISTENED,1
+U9,User_U9,Música Número 96,Artista_4,Jazz,LIKED,5
+U12,User_U12,Música Número 38,Artista_19,Lo-fi,LISTENED,1
+U24,User_U24,Música Número 39,Artista_9,Lo-fi,LISTENED,1
+U24,User_U24,Música Número 99,Artista_13,Rock,LIKED,5
+U3,User_U3,Música Número 20,Artista_14,Hip Hop,LIKED,5
+U14,User_U14,Música Número 46,Artista_1,Pop,LISTENED,1
+U23,User_U23,Música Número 85,Artista_5,Pop,LISTENED,1
+U14,User_U14,Música Número 47,Artista_15,Rock,LIKED,5
+U19,User_U19,Música Número 68,Artista_1,Electronic,LIKED,5
+U8,User_U8,Música Número 14,Artista_3,Lo-fi,LISTENED,1
+U1,User_U1,Música Número 83,Artista_12,Electronic,LIKED,5
+U24,User_U24,Música Número 39,Artista_9,Lo-fi,LISTENED,1
+U8,User_U8,Música Número 95,Artista_3,Electronic,LISTENED,1
+U6,User_U6,Música Número 95,Artista_3,Electronic,LISTENED,1
+U22,User_U22,Música Número 80,Artista_9,Jazz,LISTENED,1
+U14,User_U14,Música Número 35,Artista_7,Electronic,LISTENED,1
+U15,User_U15,Música Número 18,Artista_5,MPB,LIKED,5
+U16,User_U16,Música Número 3,Artista_4,Pop,LISTENED,1
+U18,User_U18,Música Número 72,Artista_3,Samba,LISTENED,1
+U21,User_U21,Música Número 31,Artista_15,Jazz,LISTENED,1
+U11,User_U11,Música Número 50,Artista_6,Metal,LISTENED,1
+U7,User_U7,Música Número 11,Artista_11,MPB,LISTENED,1
+U24,User_U24,Música Número 33,Artista_1,Lo-fi,LISTENED,1
+U14,User_U14,Música Número 80,Artista_9,Jazz,LIKED,5
+U12,User_U12,Música Número 95,Artista_3,Electronic,LIKED,5
+U18,User_U18,Música Número 3,Artista_4,Pop,LISTENED,1
+U22,User_U22,Música Número 87,Artista_2,Pop,LISTENED,1
+U20,User_U20,Música Número 92,Artista_10,Metal,LIKED,5
+U3,User_U3,Música Número 25,Artista_4,MPB,LIKED,5
+U15,User_U15,Música Número 96,Artista_4,Jazz,LIKED,5
+U8,User_U8,Música Número 21,Artista_6,Jazz,LISTENED,1
+U25,User_U25,Música Número 89,Artista_11,Indie,LISTENED,1
+U1,User_U1,Música Número 97,Artista_3,MPB,LISTENED,1
+U14,User_U14,Música Número 1,Artista_4,Samba,LISTENED,1
+U20,User_U20,Música Número 80,Artista_9,Jazz,LISTENED,1
+U21,User_U21,Música Número 46,Artista_1,Pop,LIKED,5
+U25,User_U25,Música Número 11,Artista_11,MPB,LISTENED,1
+U2,User_U2,Música Número 60,Artista_5,Samba,LIKED,5
+U17,User_U17,Música Número 97,Artista_3,MPB,LIKED,5
+U17,User_U17,Música Número 9,Artista_2,Lo-fi,LIKED,5
+U18,User_U18,Música Número 8,Artista_13,Indie,LIKED,5
+U22,User_U22,Música Número 85,Artista_5,Pop,LISTENED,1
+U9,User_U9,Música Número 85,Artista_5,Pop,LIKED,5
+U11,User_U11,Música Número 87,Artista_2,Pop,LIKED,5
+U17,User_U17,Música Número 62,Artista_11,Samba,LISTENED,1
+U10,User_U10,Música Número 90,Artista_9,Lo-fi,LIKED,5
+U17,User_U17,Música Número 8,Artista_13,Indie,LIKED,5
+U9,User_U9,Música Número 68,Artista_1,Electronic,LISTENED,1
+U15,User_U15,Música Número 57,Artista_19,Pop,LISTENED,1
+U25,User_U25,Música Número 79,Artista_5,Pop,LIKED,5
+U18,User_U18,Música Número 70,Artista_10,Samba,LIKED,5
+U18,User_U18,Música Número 78,Artista_16,Jazz,LISTENED,1
+U5,User_U5,Música Número 44,Artista_9,Electronic,LIKED,5
+U4,User_U4,Música Número 93,Artista_19,Hip Hop,LISTENED,1
+U23,User_U23,Música Número 36,Artista_18,Lo-fi,LIKED,5
+U14,User_U14,Música Número 51,Artista_3,Pop,LISTENED,1
+U4,User_U4,Música Número 25,Artista_4,MPB,LIKED,5
+U19,User_U19,Música Número 38,Artista_19,Lo-fi,LIKED,5
+U12,User_U12,Música Número 80,Artista_9,Jazz,LIKED,5
+U3,User_U3,Música Número 43,Artista_6,Metal,LISTENED,1
+U21,User_U21,Música Número 6,Artista_12,Electronic,LISTENED,1
+U15,User_U15,Música Número 50,Artista_6,Metal,LIKED,5
+U3,User_U3,Música Número 99,Artista_13,Rock,LISTENED,1
+U22,User_U22,Música Número 43,Artista_6,Metal,LIKED,5
+U10,User_U10,Música Número 23,Artista_10,Lo-fi,LIKED,5
+U4,User_U4,Música Número 49,Artista_19,Metal,LISTENED,1
+U1,User_U1,Música Número 1,Artista_4,Samba,LIKED,5
+U20,User_U20,Música Número 65,Artista_1,Metal,LIKED,5
+U25,User_U25,Música Número 77,Artista_17,Rock,LISTENED,1
+U22,User_U22,Música Número 53,Artista_20,Rock,LISTENED,1
+U7,User_U7,Música Número 3,Artista_4,Pop,LISTENED,1
+U9,User_U9,Música Número 64,Artista_13,Hip Hop,LISTENED,1
+U19,User_U19,Música Número 79,Artista_5,Pop,LIKED,5
+U9,User_U9,Música Número 35,Artista_7,Electronic,LISTENED,1
+U12,User_U12,Música Número 12,Artista_18,Electronic,LISTENED,1
+U22,User_U22,Música Número 81,Artista_4,Rock,LIKED,5
+U20,User_U20,Música Número 48,Artista_13,Pop,LISTENED,1
+U18,User_U18,Música Número 99,Artista_13,Rock,LISTENED,1
+U9,User_U9,Música Número 17,Artista_17,Indie,LIKED,5
+U25,User_U25,Música Número 39,Artista_9,Lo-fi,LISTENED,1
+U8,User_U8,Música Número 40,Artista_12,Metal,LISTENED,1
+U7,User_U7,Música Número 34,Artista_4,Rock,LISTENED,1
+U1,User_U1,Música Número 68,Artista_1,Electronic,LISTENED,1
+U25,User_U25,Música Número 24,Artista_7,Pop,LISTENED,1
+U19,User_U19,Música Número 60,Artista_5,Samba,LISTENED,1
+U9,User_U9,Música Número 97,Artista_3,MPB,LISTENED,1
+U18,User_U18,Música Número 43,Artista_6,Metal,LIKED,5
+U4,User_U4,Música Número 29,Artista_13,Samba,LISTENED,1
+U16,User_U16,Música Número 76,Artista_17,MPB,LISTENED,1
+U22,User_U22,Música Número 73,Artista_2,MPB,LIKED,5
+U1,User_U1,Música Número 43,Artista_6,Metal,LISTENED,1
+U22,User_U22,Música Número 3,Artista_4,Pop,LIKED,5
+U19,User_U19,Música Número 14,Artista_3,Lo-fi,LISTENED,1
+U3,User_U3,Música Número 36,Artista_18,Lo-fi,LISTENED,1
+U24,User_U24,Música Número 9,Artista_2,Lo-fi,LISTENED,1
+U22,User_U22,Música Número 61,Artista_1,Lo-fi,LIKED,5
+U14,User_U14,Música Número 2,Artista_10,Pop,LIKED,5
+U25,User_U25,Música Número 12,Artista_18,Electronic,LISTENED,1
+U2,User_U2,Música Número 54,Artista_5,Rock,LISTENED,1
+U17,User_U17,Música Número 71,Artista_3,Jazz,LIKED,5
+U11,User_U11,Música Número 10,Artista_16,Indie,LIKED,5
+U15,User_U15,Música Número 56,Artista_12,Indie,LIKED,5
+U21,User_U21,Música Número 11,Artista_11,MPB,LISTENED,1
+U2,User_U2,Música Número 90,Artista_9,Lo-fi,LISTENED,1
+U14,User_U14,Música Número 55,Artista_14,Indie,LIKED,5
+U18,User_U18,Música Número 38,Artista_19,Lo-fi,LIKED,5
+U22,User_U22,Música Número 68,Artista_1,Electronic,LIKED,5
+U11,User_U11,Música Número 82,Artista_9,Samba,LIKED,5
+U4,User_U4,Música Número 23,Artista_10,Lo-fi,LISTENED,1
+U19,User_U19,Música Número 55,Artista_14,Indie,LISTENED,1
+U19,User_U19,Música Número 84,Artista_20,Metal,LISTENED,1
+U4,User_U4,Música Número 43,Artista_6,Metal,LIKED,5
+U25,User_U25,Música Número 19,Artista_9,Lo-fi,LIKED,5
+U20,User_U20,Música Número 36,Artista_18,Lo-fi,LISTENED,1
+U7,User_U7,Música Número 80,Artista_9,Jazz,LIKED,5
+U14,User_U14,Música Número 45,Artista_12,Pop,LIKED,5
+U22,User_U22,Música Número 90,Artista_9,Lo-fi,LIKED,5
+U25,User_U25,Música Número 67,Artista_15,Pop,LIKED,5
+U4,User_U4,Música Número 28,Artista_15,Pop,LISTENED,1
+U4,User_U4,Música Número 20,Artista_14,Hip Hop,LIKED,5
+U19,User_U19,Música Número 28,Artista_15,Pop,LIKED,5
+U2,User_U2,Música Número 34,Artista_4,Rock,LIKED,5
+U25,User_U25,Música Número 31,Artista_15,Jazz,LISTENED,1
+U24,User_U24,Música Número 56,Artista_12,Indie,LIKED,5
+U23,User_U23,Música Número 19,Artista_9,Lo-fi,LISTENED,1
+U9,User_U9,Música Número 100,Artista_7,Electronic,LISTENED,1
+U23,User_U23,Música Número 11,Artista_11,MPB,LISTENED,1
+U20,User_U20,Música Número 95,Artista_3,Electronic,LISTENED,1
+U13,User_U13,Música Número 19,Artista_9,Lo-fi,LIKED,5
+U9,User_U9,Música Número 42,Artista_11,Pop,LISTENED,1
+U2,User_U2,Música Número 95,Artista_3,Electronic,LIKED,5
+U2,User_U2,Música Número 99,Artista_13,Rock,LISTENED,1
+U10,User_U10,Música Número 70,Artista_10,Samba,LIKED,5
+U1,User_U1,Música Número 42,Artista_11,Pop,LISTENED,1
+U23,User_U23,Música Número 5,Artista_20,Electronic,LIKED,5
+U4,User_U4,Música Número 92,Artista_10,Metal,LISTENED,1
+U17,User_U17,Música Número 33,Artista_1,Lo-fi,LISTENED,1
+U3,User_U3,Música Número 24,Artista_7,Pop,LIKED,5
+U10,User_U10,Música Número 95,Artista_3,Electronic,LISTENED,1
+U13,User_U13,Música Número 67,Artista_15,Pop,LISTENED,1
+U20,User_U20,Música Número 70,Artista_10,Samba,LIKED,5
+U1,User_U1,Música Número 68,Artista_1,Electronic,LISTENED,1
+U25,User_U25,Música Número 10,Artista_16,Indie,LISTENED,1
+U23,User_U23,Música Número 74,Artista_18,Rock,LIKED,5
+U8,User_U8,Música Número 100,Artista_7,Electronic,LIKED,5
+U3,User_U3,Música Número 88,Artista_19,Lo-fi,LIKED,5
+U11,User_U11,Música Número 16,Artista_5,Lo-fi,LIKED,5
+U23,User_U23,Música Número 9,Artista_2,Lo-fi,LIKED,5
+U15,User_U15,Música Número 40,Artista_12,Metal,LISTENED,1
+U2,User_U2,Música Número 29,Artista_13,Samba,LIKED,5
+U10,User_U10,Música Número 22,Artista_14,Samba,LIKED,5
+U17,User_U17,Música Número 34,Artista_4,Rock,LIKED,5
+U22,User_U22,Música Número 37,Artista_14,Jazz,LISTENED,1
+U8,User_U8,Música Número 10,Artista_16,Indie,LIKED,5
+U3,User_U3,Música Número 56,Artista_12,Indie,LIKED,5
+U18,User_U18,Música Número 32,Artista_19,Samba,LIKED,5
+U19,User_U19,Música Número 37,Artista_14,Jazz,LISTENED,1
+U10,User_U10,Música Número 45,Artista_12,Pop,LISTENED,1
+U21,User_U21,Música Número 59,Artista_16,Indie,LISTENED,1
+U20,User_U20,Música Número 63,Artista_19,Hip Hop,LIKED,5
+U9,User_U9,Música Número 84,Artista_20,Metal,LISTENED,1
+U10,User_U10,Música Número 83,Artista_12,Electronic,LIKED,5
+U17,User_U17,Música Número 90,Artista_9,Lo-fi,LIKED,5
+U19,User_U19,Música Número 17,Artista_17,Indie,LIKED,5
+U8,User_U8,Música Número 22,Artista_14,Samba,LISTENED,1
+U8,User_U8,Música Número 26,Artista_8,Rock,LISTENED,1
+U23,User_U23,Música Número 46,Artista_1,Pop,LISTENED,1
+U9,User_U9,Música Número 23,Artista_10,Lo-fi,LISTENED,1
+U25,User_U25,Música Número 30,Artista_2,Indie,LISTENED,1
+U11,User_U11,Música Número 93,Artista_19,Hip Hop,LISTENED,1
+U15,User_U15,Música Número 29,Artista_13,Samba,LISTENED,1
+U12,User_U12,Música Número 67,Artista_15,Pop,LISTENED,1
+U14,User_U14,Música Número 97,Artista_3,MPB,LISTENED,1
+U16,User_U16,Música Número 4,Artista_16,Electronic,LISTENED,1
+U6,User_U6,Música Número 9,Artista_2,Lo-fi,LISTENED,1
+U25,User_U25,Música Número 50,Artista_6,Metal,LISTENED,1
+U24,User_U24,Música Número 7,Artista_5,Pop,LISTENED,1
+U7,User_U7,Música Número 16,Artista_5,Lo-fi,LIKED,5
+U6,User_U6,Música Número 14,Artista_3,Lo-fi,LISTENED,1
+U20,User_U20,Música Número 60,Artista_5,Samba,LIKED,5
+U10,User_U10,Música Número 91,Artista_3,Hip Hop,LISTENED,1
+U17,User_U17,Música Número 15,Artista_19,Samba,LISTENED,1
+U17,User_U17,Música Número 38,Artista_19,Lo-fi,LIKED,5
+U21,User_U21,Música Número 83,Artista_12,Electronic,LISTENED,1
+U11,User_U11,Música Número 70,Artista_10,Samba,LIKED,5
+U10,User_U10,Música Número 47,Artista_15,Rock,LIKED,5
+U25,User_U25,Música Número 22,Artista_14,Samba,LIKED,5
+U18,User_U18,Música Número 27,Artista_2,Metal,LIKED,5
+U14,User_U14,Música Número 59,Artista_16,Indie,LISTENED,1
+U8,User_U8,Música Número 7,Artista_5,Pop,LIKED,5
+U3,User_U3,Música Número 71,Artista_3,Jazz,LISTENED,1
+U8,User_U8,Música Número 84,Artista_20,Metal,LISTENED,1
+U8,User_U8,Música Número 79,Artista_5,Pop,LISTENED,1
+U19,User_U19,Música Número 36,Artista_18,Lo-fi,LISTENED,1
+U13,User_U13,Música Número 39,Artista_9,Lo-fi,LIKED,5
+U20,User_U20,Música Número 29,Artista_13,Samba,LISTENED,1
+U24,User_U24,Música Número 51,Artista_3,Pop,LIKED,5
+U21,User_U21,Música Número 28,Artista_15,Pop,LIKED,5
+U6,User_U6,Música Número 56,Artista_12,Indie,LIKED,5
+U21,User_U21,Música Número 31,Artista_15,Jazz,LISTENED,1
+U1,User_U1,Música Número 86,Artista_14,MPB,LISTENED,1
+U17,User_U17,Música Número 56,Artista_12,Indie,LISTENED,1
+U2,User_U2,Música Número 100,Artista_7,Electronic,LISTENED,1
+U19,User_U19,Música Número 46,Artista_1,Pop,LISTENED,1
+U3,User_U3,Música Número 95,Artista_3,Electronic,LIKED,5
+U4,User_U4,Música Número 48,Artista_13,Pop,LIKED,5
+U1,User_U1,Música Número 17,Artista_17,Indie,LISTENED,1
+U14,User_U14,Música Número 57,Artista_19,Pop,LISTENED,1
+U13,User_U13,Música Número 88,Artista_19,Lo-fi,LISTENED,1
+U23,User_U23,Música Número 97,Artista_3,MPB,LISTENED,1
+U15,User_U15,Música Número 51,Artista_3,Pop,LIKED,5
+U21,User_U21,Música Número 70,Artista_10,Samba,LISTENED,1
+U25,User_U25,Música Número 97,Artista_3,MPB,LISTENED,1
+U17,User_U17,Música Número 66,Artista_5,Hip Hop,LISTENED,1
+U12,User_U12,Música Número 63,Artista_19,Hip Hop,LIKED,5
+U7,User_U7,Música Número 7,Artista_5,Pop,LIKED,5
+U13,User_U13,Música Número 73,Artista_2,MPB,LIKED,5
+U6,User_U6,Música Número 44,Artista_9,Electronic,LISTENED,1
+U16,User_U16,Música Número 20,Artista_14,Hip Hop,LISTENED,1
+U20,User_U20,Música Número 67,Artista_15,Pop,LISTENED,1
+U12,User_U12,Música Número 85,Artista_5,Pop,LIKED,5
+U14,User_U14,Música Número 35,Artista_7,Electronic,LISTENED,1
+U10,User_U10,Música Número 96,Artista_4,Jazz,LISTENED,1
+U11,User_U11,Música Número 14,Artista_3,Lo-fi,LIKED,5
+U2,User_U2,Música Número 58,Artista_4,Jazz,LISTENED,1
+U25,User_U25,Música Número 77,Artista_17,Rock,LISTENED,1
+U25,User_U25,Música Número 86,Artista_14,MPB,LISTENED,1
+U4,User_U4,Música Número 33,Artista_1,Lo-fi,LISTENED,1
+U14,User_U14,Música Número 15,Artista_19,Samba,LISTENED,1
+U14,User_U14,Música Número 31,Artista_15,Jazz,LISTENED,1
+U11,User_U11,Música Número 3,Artista_4,Pop,LIKED,5
+U16,User_U16,Música Número 88,Artista_19,Lo-fi,LIKED,5
+U2,User_U2,Música Número 36,Artista_18,Lo-fi,LIKED,5
+U8,User_U8,Música Número 47,Artista_15,Rock,LIKED,5
+U16,User_U16,Música Número 64,Artista_13,Hip Hop,LISTENED,1
+U6,User_U6,Música Número 10,Artista_16,Indie,LISTENED,1
+U15,User_U15,Música Número 1,Artista_4,Samba,LISTENED,1
+U17,User_U17,Música Número 89,Artista_11,Indie,LIKED,5
+U12,User_U12,Música Número 88,Artista_19,Lo-fi,LISTENED,1
+U1,User_U1,Música Número 20,Artista_14,Hip Hop,LISTENED,1
+U17,User_U17,Música Número 92,Artista_10,Metal,LISTENED,1
+U12,User_U12,Música Número 57,Artista_19,Pop,LISTENED,1
+U25,User_U25,Música Número 94,Artista_17,Pop,LIKED,5
+U24,User_U24,Música Número 7,Artista_5,Pop,LISTENED,1
+U17,User_U17,Música Número 83,Artista_12,Electronic,LISTENED,1
+U24,User_U24,Música Número 31,Artista_15,Jazz,LIKED,5
+U19,User_U19,Música Número 62,Artista_11,Samba,LIKED,5
+U17,User_U17,Música Número 64,Artista_13,Hip Hop,LIKED,5
+U1,User_U1,Música Número 64,Artista_13,Hip Hop,LIKED,5
+U6,User_U6,Música Número 39,Artista_9,Lo-fi,LISTENED,1
+U6,User_U6,Música Número 15,Artista_19,Samba,LISTENED,1
+U24,User_U24,Música Número 50,Artista_6,Metal,LISTENED,1
+U23,User_U23,Música Número 70,Artista_10,Samba,LISTENED,1
+U18,User_U18,Música Número 26,Artista_8,Rock,LISTENED,1
+U20,User_U20,Música Número 10,Artista_16,Indie,LIKED,5
+U25,User_U25,Música Número 47,Artista_15,Rock,LIKED,5
+U24,User_U24,Música Número 1,Artista_4,Samba,LISTENED,1
+U9,User_U9,Música Número 100,Artista_7,Electronic,LISTENED,1
+U5,User_U5,Música Número 8,Artista_13,Indie,LISTENED,1
+U7,User_U7,Música Número 23,Artista_10,Lo-fi,LISTENED,1
+U1,User_U1,Música Número 58,Artista_4,Jazz,LISTENED,1
+U18,User_U18,Música Número 34,Artista_4,Rock,LISTENED,1
+U13,User_U13,Música Número 77,Artista_17,Rock,LIKED,5
+U17,User_U17,Música Número 30,Artista_2,Indie,LIKED,5
+U20,User_U20,Música Número 62,Artista_11,Samba,LISTENED,1
+U19,User_U19,Música Número 67,Artista_15,Pop,LIKED,5
+U1,User_U1,Música Número 85,Artista_5,Pop,LIKED,5
+U3,User_U3,Música Número 54,Artista_5,Rock,LIKED,5
+U15,User_U15,Música Número 96,Artista_4,Jazz,LIKED,5
+U12,User_U12,Música Número 97,Artista_3,MPB,LIKED,5
+U24,User_U24,Música Número 84,Artista_20,Metal,LISTENED,1
+U6,User_U6,Música Número 53,Artista_20,Rock,LISTENED,1
+U15,User_U15,Música Número 18,Artista_5,MPB,LISTENED,1
+U24,User_U24,Música Número 17,Artista_17,Indie,LIKED,5
+U25,User_U25,Música Número 43,Artista_6,Metal,LISTENED,1
+U12,User_U12,Música Número 96,Artista_4,Jazz,LIKED,5
+U15,User_U15,Música Número 54,Artista_5,Rock,LISTENED,1
+U12,User_U12,Música Número 25,Artista_4,MPB,LISTENED,1
+U19,User_U19,Música Número 26,Artista_8,Rock,LIKED,5
+U7,User_U7,Música Número 39,Artista_9,Lo-fi,LIKED,5
+U7,User_U7,Música Número 21,Artista_6,Jazz,LISTENED,1
+U3,User_U3,Música Número 94,Artista_17,Pop,LISTENED,1
+U9,User_U9,Música Número 60,Artista_5,Samba,LISTENED,1
+U1,User_U1,Música Número 42,Artista_11,Pop,LIKED,5
+U14,User_U14,Música Número 73,Artista_2,MPB,LIKED,5
+U2,User_U2,Música Número 85,Artista_5,Pop,LIKED,5
+U20,User_U20,Música Número 63,Artista_19,Hip Hop,LISTENED,1
+U13,User_U13,Música Número 28,Artista_15,Pop,LISTENED,1
+U20,User_U20,Música Número 91,Artista_3,Hip Hop,LISTENED,1
+U7,User_U7,Música Número 19,Artista_9,Lo-fi,LIKED,5
+U15,User_U15,Música Número 20,Artista_14,Hip Hop,LIKED,5
+U15,User_U15,Música Número 5,Artista_20,Electronic,LIKED,5
+U15,User_U15,Música Número 100,Artista_7,Electronic,LIKED,5
+U22,User_U22,Música Número 16,Artista_5,Lo-fi,LISTENED,1
+U20,User_U20,Música Número 11,Artista_11,MPB,LISTENED,1
+U6,User_U6,Música Número 14,Artista_3,Lo-fi,LIKED,5
+U18,User_U18,Música Número 63,Artista_19,Hip Hop,LISTENED,1
+U5,User_U5,Música Número 50,Artista_6,Metal,LISTENED,1
+U8,User_U8,Música Número 15,Artista_19,Samba,LISTENED,1
+U10,User_U10,Música Número 64,Artista_13,Hip Hop,LIKED,5
+U3,User_U3,Música Número 6,Artista_12,Electronic,LISTENED,1
+U3,User_U3,Música Número 59,Artista_16,Indie,LIKED,5
+U6,User_U6,Música Número 83,Artista_12,Electronic,LISTENED,1
+U2,User_U2,Música Número 71,Artista_3,Jazz,LISTENED,1
+U23,User_U23,Música Número 57,Artista_19,Pop,LIKED,5
+U5,User_U5,Música Número 23,Artista_10,Lo-fi,LISTENED,1
+U15,User_U15,Música Número 64,Artista_13,Hip Hop,LISTENED,1
+U13,User_U13,Música Número 9,Artista_2,Lo-fi,LISTENED,1
+U14,User_U14,Música Número 91,Artista_3,Hip Hop,LISTENED,1
+U2,User_U2,Música Número 31,Artista_15,Jazz,LISTENED,1
+U2,User_U2,Música Número 63,Artista_19,Hip Hop,LISTENED,1
+U14,User_U14,Música Número 97,Artista_3,MPB,LIKED,5
+U25,User_U25,Música Número 6,Artista_12,Electronic,LISTENED,1
+U10,User_U10,Música Número 40,Artista_12,Metal,LIKED,5
+U17,User_U17,Música Número 100,Artista_7,Electronic,LIKED,5
+U6,User_U6,Música Número 79,Artista_5,Pop,LISTENED,1
+U1,User_U1,Música Número 14,Artista_3,Lo-fi,LIKED,5
+U14,User_U14,Música Número 49,Artista_19,Metal,LIKED,5
+U9,User_U9,Música Número 6,Artista_12,Electronic,LISTENED,1
+U15,User_U15,Música Número 8,Artista_13,Indie,LIKED,5
+U11,User_U11,Música Número 48,Artista_13,Pop,LIKED,5
+U21,User_U21,Música Número 65,Artista_1,Metal,LIKED,5
+U24,User_U24,Música Número 75,Artista_15,Samba,LIKED,5
+U14,User_U14,Música Número 65,Artista_1,Metal,LIKED,5
+U14,User_U14,Música Número 98,Artista_14,Metal,LISTENED,1
+U11,User_U11,Música Número 54,Artista_5,Rock,LISTENED,1
+U19,User_U19,Música Número 48,Artista_13,Pop,LIKED,5
+U17,User_U17,Música Número 47,Artista_15,Rock,LIKED,5
+U10,User_U10,Música Número 18,Artista_5,MPB,LISTENED,1
+U16,User_U16,Música Número 63,Artista_19,Hip Hop,LISTENED,1
+U5,User_U5,Música Número 63,Artista_19,Hip Hop,LISTENED,1
+U16,User_U16,Música Número 88,Artista_19,Lo-fi,LIKED,5
+U8,User_U8,Música Número 26,Artista_8,Rock,LISTENED,1
+U9,User_U9,Música Número 52,Artista_15,Jazz,LIKED,5
+U22,User_U22,Música Número 31,Artista_15,Jazz,LIKED,5
+U17,User_U17,Música Número 48,Artista_13,Pop,LIKED,5
+U14,User_U14,Música Número 82,Artista_9,Samba,LIKED,5
+U5,User_U5,Música Número 17,Artista_17,Indie,LISTENED,1
+U25,User_U25,Música Número 56,Artista_12,Indie,LIKED,5
+U6,User_U6,Música Número 78,Artista_16,Jazz,LISTENED,1
+U4,User_U4,Música Número 38,Artista_19,Lo-fi,LIKED,5
+U1,User_U1,Música Número 39,Artista_9,Lo-fi,LIKED,5
+U3,User_U3,Música Número 76,Artista_17,MPB,LIKED,5
+U4,User_U4,Música Número 1,Artista_4,Samba,LISTENED,1
+U24,User_U24,Música Número 42,Artista_11,Pop,LIKED,5
+U11,User_U11,Música Número 68,Artista_1,Electronic,LISTENED,1
+U21,User_U21,Música Número 36,Artista_18,Lo-fi,LIKED,5
+U1,User_U1,Música Número 59,Artista_16,Indie,LISTENED,1
+U6,User_U6,Música Número 5,Artista_20,Electronic,LISTENED,1
+U12,User_U12,Música Número 18,Artista_5,MPB,LISTENED,1
+U24,User_U24,Música Número 55,Artista_14,Indie,LIKED,5
+U20,User_U20,Música Número 47,Artista_15,Rock,LISTENED,1
+U23,User_U23,Música Número 90,Artista_9,Lo-fi,LIKED,5
+U5,User_U5,Música Número 39,Artista_9,Lo-fi,LIKED,5
+U2,User_U2,Música Número 32,Artista_19,Samba,LISTENED,1
+U5,User_U5,Música Número 23,Artista_10,Lo-fi,LIKED,5
+U9,User_U9,Música Número 28,Artista_15,Pop,LISTENED,1
+U13,User_U13,Música Número 55,Artista_14,Indie,LISTENED,1
+U14,User_U14,Música Número 20,Artista_14,Hip Hop,LISTENED,1
+U5,User_U5,Música Número 64,Artista_13,Hip Hop,LIKED,5
+U17,User_U17,Música Número 69,Artista_4,Hip Hop,LISTENED,1
+U9,User_U9,Música Número 8,Artista_13,Indie,LISTENED,1
+U2,User_U2,Música Número 16,Artista_5,Lo-fi,LIKED,5
+U22,User_U22,Música Número 20,Artista_14,Hip Hop,LIKED,5
+U14,User_U14,Música Número 5,Artista_20,Electronic,LIKED,5
+U1,User_U1,Música Número 15,Artista_19,Samba,LIKED,5
+U15,User_U15,Música Número 66,Artista_5,Hip Hop,LIKED,5
+U22,User_U22,Música Número 75,Artista_15,Samba,LISTENED,1
+U7,User_U7,Música Número 3,Artista_4,Pop,LISTENED,1
+U13,User_U13,Música Número 47,Artista_15,Rock,LISTENED,1
+U22,User_U22,Música Número 71,Artista_3,Jazz,LISTENED,1
+U21,User_U21,Música Número 77,Artista_17,Rock,LISTENED,1
+U24,User_U24,Música Número 43,Artista_6,Metal,LISTENED,1
+U15,User_U15,Música Número 66,Artista_5,Hip Hop,LISTENED,1
+U22,User_U22,Música Número 16,Artista_5,Lo-fi,LISTENED,1
+U7,User_U7,Música Número 41,Artista_12,Hip Hop,LIKED,5
+U23,User_U23,Música Número 9,Artista_2,Lo-fi,LISTENED,1
+U20,User_U20,Música Número 2,Artista_10,Pop,LIKED,5
+U21,User_U21,Música Número 47,Artista_15,Rock,LISTENED,1
+U21,User_U21,Música Número 100,Artista_7,Electronic,LISTENED,1
+U16,User_U16,Música Número 57,Artista_19,Pop,LIKED,5
+U11,User_U11,Música Número 64,Artista_13,Hip Hop,LISTENED,1
+U19,User_U19,Música Número 28,Artista_15,Pop,LIKED,5
+U2,User_U2,Música Número 8,Artista_13,Indie,LIKED,5
+U16,User_U16,Música Número 49,Artista_19,Metal,LISTENED,1
+U23,User_U23,Música Número 63,Artista_19,Hip Hop,LISTENED,1
+U3,User_U3,Música Número 62,Artista_11,Samba,LIKED,5
+U12,User_U12,Música Número 73,Artista_2,MPB,LIKED,5
+U2,User_U2,Música Número 64,Artista_13,Hip Hop,LIKED,5
+U22,User_U22,Música Número 82,Artista_9,Samba,LIKED,5
+U22,User_U22,Música Número 38,Artista_19,Lo-fi,LIKED,5
+U10,User_U10,Música Número 70,Artista_10,Samba,LIKED,5
+U13,User_U13,Música Número 46,Artista_1,Pop,LIKED,5
+U19,User_U19,Música Número 83,Artista_12,Electronic,LIKED,5
+U2,User_U2,Música Número 49,Artista_19,Metal,LIKED,5
+U5,User_U5,Música Número 32,Artista_19,Samba,LISTENED,1
+U1,User_U1,Música Número 34,Artista_4,Rock,LIKED,5
+U1,User_U1,Música Número 72,Artista_3,Samba,LISTENED,1
+U19,User_U19,Música Número 92,Artista_10,Metal,LISTENED,1
+U24,User_U24,Música Número 65,Artista_1,Metal,LISTENED,1
+U13,User_U13,Música Número 42,Artista_11,Pop,LISTENED,1
+U24,User_U24,Música Número 2,Artista_10,Pop,LIKED,5
+U18,User_U18,Música Número 18,Artista_5,MPB,LIKED,5
+U25,User_U25,Música Número 37,Artista_14,Jazz,LISTENED,1
+U2,User_U2,Música Número 91,Artista_3,Hip Hop,LISTENED,1
+U1,User_U1,Música Número 43,Artista_6,Metal,LISTENED,1
+U11,User_U11,Música Número 73,Artista_2,MPB,LISTENED,1
+U3,User_U3,Música Número 80,Artista_9,Jazz,LIKED,5
+U25,User_U25,Música Número 33,Artista_1,Lo-fi,LISTENED,1
+U21,User_U21,Música Número 91,Artista_3,Hip Hop,LIKED,5
+U19,User_U19,Música Número 83,Artista_12,Electronic,LIKED,5
+U18,User_U18,Música Número 21,Artista_6,Jazz,LISTENED,1
+U6,User_U6,Música Número 90,Artista_9,Lo-fi,LIKED,5
+U24,User_U24,Música Número 49,Artista_19,Metal,LIKED,5
+U23,User_U23,Música Número 92,Artista_10,Metal,LISTENED,1
+U4,User_U4,Música Número 58,Artista_4,Jazz,LISTENED,1
+U5,User_U5,Música Número 55,Artista_14,Indie,LIKED,5
+U21,User_U21,Música Número 47,Artista_15,Rock,LISTENED,1
+U15,User_U15,Música Número 80,Artista_9,Jazz,LISTENED,1
+U1,User_U1,Música Número 5,Artista_20,Electronic,LIKED,5
+U4,User_U4,Música Número 5,Artista_20,Electronic,LIKED,5
+U11,User_U11,Música Número 81,Artista_4,Rock,LISTENED,1
+U13,User_U13,Música Número 29,Artista_13,Samba,LISTENED,1
+U24,User_U24,Música Número 15,Artista_19,Samba,LIKED,5
+U25,User_U25,Música Número 93,Artista_19,Hip Hop,LISTENED,1
+U19,User_U19,Música Número 18,Artista_5,MPB,LIKED,5
+U5,User_U5,Música Número 81,Artista_4,Rock,LISTENED,1
+U5,User_U5,Música Número 79,Artista_5,Pop,LIKED,5
+U17,User_U17,Música Número 64,Artista_13,Hip Hop,LIKED,5
+U16,User_U16,Música Número 86,Artista_14,MPB,LISTENED,1
+U12,User_U12,Música Número 71,Artista_3,Jazz,LIKED,5
+U21,User_U21,Música Número 74,Artista_18,Rock,LIKED,5
+U15,User_U15,Música Número 8,Artista_13,Indie,LISTENED,1
+U8,User_U8,Música Número 31,Artista_15,Jazz,LISTENED,1
+U4,User_U4,Música Número 9,Artista_2,Lo-fi,LISTENED,1
+U13,User_U13,Música Número 62,Artista_11,Samba,LIKED,5
+U10,User_U10,Música Número 81,Artista_4,Rock,LISTENED,1
+U9,User_U9,Música Número 44,Artista_9,Electronic,LIKED,5
+U1,User_U1,Música Número 65,Artista_1,Metal,LIKED,5
+U25,User_U25,Música Número 33,Artista_1,Lo-fi,LIKED,5
+U23,User_U23,Música Número 6,Artista_12,Electronic,LIKED,5
+U13,User_U13,Música Número 8,Artista_13,Indie,LIKED,5
+U8,User_U8,Música Número 27,Artista_2,Metal,LIKED,5
+U12,User_U12,Música Número 6,Artista_12,Electronic,LISTENED,1
+U3,User_U3,Música Número 61,Artista_1,Lo-fi,LISTENED,1
+U9,User_U9,Música Número 41,Artista_12,Hip Hop,LISTENED,1
+U21,User_U21,Música Número 72,Artista_3,Samba,LIKED,5
+U5,User_U5,Música Número 74,Artista_18,Rock,LISTENED,1
+U11,User_U11,Música Número 51,Artista_3,Pop,LISTENED,1
+U15,User_U15,Música Número 87,Artista_2,Pop,LISTENED,1
+U17,User_U17,Música Número 61,Artista_1,Lo-fi,LIKED,5
+U23,User_U23,Música Número 9,Artista_2,Lo-fi,LISTENED,1
+U7,User_U7,Música Número 95,Artista_3,Electronic,LISTENED,1
+U24,User_U24,Música Número 97,Artista_3,MPB,LIKED,5
+U18,User_U18,Música Número 5,Artista_20,Electronic,LIKED,5
+U19,User_U19,Música Número 37,Artista_14,Jazz,LIKED,5
+U13,User_U13,Música Número 47,Artista_15,Rock,LISTENED,1
+U24,User_U24,Música Número 76,Artista_17,MPB,LISTENED,1
+U24,User_U24,Música Número 17,Artista_17,Indie,LIKED,5
+U12,User_U12,Música Número 2,Artista_10,Pop,LISTENED,1
+U9,User_U9,Música Número 21,Artista_6,Jazz,LISTENED,1
+U24,User_U24,Música Número 86,Artista_14,MPB,LIKED,5
+U1,User_U1,Música Número 85,Artista_5,Pop,LIKED,5
+U20,User_U20,Música Número 59,Artista_16,Indie,LISTENED,1
+U14,User_U14,Música Número 55,Artista_14,Indie,LISTENED,1
+U2,User_U2,Música Número 52,Artista_15,Jazz,LISTENED,1
+U13,User_U13,Música Número 25,Artista_4,MPB,LISTENED,1
+U2,User_U2,Música Número 34,Artista_4,Rock,LISTENED,1
+U18,User_U18,Música Número 81,Artista_4,Rock,LISTENED,1
+U1,User_U1,Música Número 90,Artista_9,Lo-fi,LIKED,5
+U13,User_U13,Música Número 7,Artista_5,Pop,LIKED,5
+U4,User_U4,Música Número 83,Artista_12,Electronic,LIKED,5
+U17,User_U17,Música Número 64,Artista_13,Hip Hop,LIKED,5
+U5,User_U5,Música Número 88,Artista_19,Lo-fi,LIKED,5
+U20,User_U20,Música Número 24,Artista_7,Pop,LISTENED,1
+U2,User_U2,Música Número 7,Artista_5,Pop,LIKED,5
+U24,User_U24,Música Número 12,Artista_18,Electronic,LIKED,5
+U14,User_U14,Música Número 2,Artista_10,Pop,LIKED,5
+U7,User_U7,Música Número 11,Artista_11,MPB,LIKED,5
+U7,User_U7,Música Número 16,Artista_5,Lo-fi,LISTENED,1
+U13,User_U13,Música Número 88,Artista_19,Lo-fi,LISTENED,1
+U16,User_U16,Música Número 17,Artista_17,Indie,LISTENED,1
+U9,User_U9,Música Número 78,Artista_16,Jazz,LISTENED,1
+U2,User_U2,Música Número 44,Artista_9,Electronic,LISTENED,1
+U19,User_U19,Música Número 85,Artista_5,Pop,LIKED,5
+U7,User_U7,Música Número 27,Artista_2,Metal,LIKED,5
+U15,User_U15,Música Número 59,Artista_16,Indie,LISTENED,1
+U18,User_U18,Música Número 4,Artista_16,Electronic,LISTENED,1
+U10,User_U10,Música Número 4,Artista_16,Electronic,LIKED,5
+U3,User_U3,Música Número 58,Artista_4,Jazz,LIKED,5
+U17,User_U17,Música Número 68,Artista_1,Electronic,LISTENED,1
+U15,User_U15,Música Número 99,Artista_13,Rock,LIKED,5
+U6,User_U6,Música Número 59,Artista_16,Indie,LIKED,5
+U17,User_U17,Música Número 42,Artista_11,Pop,LISTENED,1
+U5,User_U5,Música Número 47,Artista_15,Rock,LIKED,5
