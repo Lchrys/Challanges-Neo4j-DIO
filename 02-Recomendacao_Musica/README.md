@@ -71,4 +71,5 @@ Mapeia a densidade de conexões entre o usuário e os artistas, quantificando o 
 ### Visualização do Grafo (Perspective):
 
 <div align="center">
-  <img src="https://github.com/Lchrys/Challanges-Neo4j-DIO/blob/main/01-Servi%C3%A7o_de_Streaming/IMG/bloom-visualisation.png?raw=true" alt="Visual
+  <img src="https://raw.githubusercontent.com/Lchrys/Challanges-Neo4j-DIO/refs/heads/main/02-Recomendacao_Musica/IMG/visualisation.png" width="80%">
+</div>
