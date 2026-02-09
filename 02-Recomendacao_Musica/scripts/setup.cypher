@@ -31,3 +31,7 @@ FOREACH (_ IN CASE WHEN row.interaction_type = 'LISTENED' THEN [1] ELSE [] END |
 FOREACH (_ IN CASE WHEN row.interaction_type = 'LIKED' THEN [1] ELSE [] END |
     MERGE (u)-[r:LIKED]->(s) 
     SET r.weight = toInteger(row.weight))
+
+// Verificação:
+MATCH (n) 
+RETURN labels(n) AS Tipo, count(n) AS Total
