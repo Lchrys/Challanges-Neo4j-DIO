@@ -55,9 +55,8 @@ O motor identifica usuários que seus amigos seguem, mas que você ainda não se
 ### 2. Análise de Caminho (Shortest Path)
 Utiliza algoritmos de busca em largura para encontrar o menor número de saltos entre dois usuários, respeitando a direcionalidade das setas (`(a)-[:FOLLOWS]->(b)`).
 
-### 3. Popularidade e Tendências
-Mapeia o engajamento diário. A taxa de engajamento da rede é calculada pela densidade de curtidas sobre o volume de posts:
-$$\text{Taxa de Engajamento} = \frac{\sum \text{LIKES}}{\sum \text{POSTS}}$$
+### 3. Posts Populares
+Cálculo do posto mais curtido em uma detrminada data.
 
 ---
 
@@ -71,5 +70,5 @@ $$\text{Taxa de Engajamento} = \frac{\sum \text{LIKES}}{\sum \text{POSTS}}$$
 ### Visualização do Grafo (Perspective):
 
 <div align="center">
-  <img src="-" width="80%">
+  <img src="https://github.com/Lchrys/Challanges-Neo4j-DIO/blob/main/03-Rede_Social/IMG/vis_03.png" width="80%">
 </div>
